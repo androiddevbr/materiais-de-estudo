@@ -91,5 +91,12 @@ Lembrando: esse repositório é uma iniciativa do [Android Dev BR](https://githu
 | Shape Shifter | Ferramenta para construção de animações para ícones no Android | [Link](http://bit.do/eSUcC) |
 | Lottie | Ferramenta do Airbnb para construção de animações complexas para Android e iOS | [Link](http://bit.do/eSUcG) |
 
+
+### Repositórios úteis :octocat:
+| **Nome**  | **Descrição** | **Link** | 
+| - | - | - |
+| Android Developer Roadmap | Repositório com um direcionamento para desenvolvedores Android | [Link](http://bit.do/eS5Xk) | 
+
+
 ---
 
