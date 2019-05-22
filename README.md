@@ -76,7 +76,7 @@ Lembrando: esse repositório é uma iniciativa do [Android Dev BR](https://githu
 | Formação Android - Alura | Curso de formação de profissionais Android fornecido pela Alura, serviço de cursos online da Caelum | 🇵🇹 | [Link](http://bit.do/eSUaP) |
 | Caster.io | Curso online avançado para profissionais Android, com professores membros da comunidade e do programa de Experts do Google (GDEs) | 🇬🇧 | [Link](http://bit.do/eSUaU) |
 | Codelabs Android - Google Developers | Codelabs oficiais de Android, mantidos pelo Google | 🇬🇧 | [Link](http://bit.do/eSUaZ) |
-
+| Developing Android Apps with Kotlin - Udacity| Curso oficial do Google, fornecido pela Udacity, ensinando a desenvolver em Kotlin e utilizando Android Architecture Components | 🇬🇧 | [Link](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012#) |
 
 ### Ferramentas 🧰
 
