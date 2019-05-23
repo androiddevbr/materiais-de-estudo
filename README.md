@@ -14,11 +14,11 @@ Lembrando: esse repositório é uma iniciativa do [Android Dev BR](https://githu
 
 | **Nome** | **Descrição** | **Idioma** | **Link** |
 | - | - | - | - |
-| Home | Página principal do Android | 🇵🇹🇬🇧 | [Link](http://bit.do/eST7x) |
-| Documentação | Documentação oficial das APIs e ferramentas do Android | 🇵🇹🇬🇧 | [Link](http://bit.do/eST7C) |
-| Blog | Blog oficial com anúncios e novidades direto do time do Android | 🇵🇹🇬🇧 | [Link](http://bit.do/eST7G) |
-| Plataforma | Detalhes do Android para plataformas específicas como carros, relógios e TVs | 🇵🇹🇬🇧 | [Link](http://bit.do/eST7P) |
-| Google Play | Acesso ao painel de desenvolvedores, ferramentas e conteúdos para o Google Play em geral  | 🇵🇹🇬🇧 | [Link](http://bit.do/eST7W) |
+| Home | Página principal do Android | 🇧🇷🇬🇧 | [Link](http://bit.do/eST7x) |
+| Documentação | Documentação oficial das APIs e ferramentas do Android | 🇧🇷🇬🇧 | [Link](http://bit.do/eST7C) |
+| Blog | Blog oficial com anúncios e novidades direto do time do Android | 🇧🇷🇬🇧 | [Link](http://bit.do/eST7G) |
+| Plataforma | Detalhes do Android para plataformas específicas como carros, relógios e TVs | 🇧🇷🇬🇧 | [Link](http://bit.do/eST7P) |
+| Google Play | Acesso ao painel de desenvolvedores, ferramentas e conteúdos para o Google Play em geral  | 🇧🇷🇬🇧 | [Link](http://bit.do/eST7W) |
 | Kotlin | Detalhes do uso do Kotlin no Android em geral | 🇬🇧 | [Link](http://bit.do/eST73) |
 | Notícias | Notícias sobre o Android, Google Play e o ecossistema em geral | 🇬🇧 | [Link](http://bit.do/eST79) |
 | Material Design | Página oficial sobre o Material Design | 🇬🇧 | [Link](http://bit.do/eST8a)
@@ -29,10 +29,10 @@ Lembrando: esse repositório é uma iniciativa do [Android Dev BR](https://githu
 ##### Livros nacionais ou traduções oficiais 📖 🇧🇷
 | **Nome** | **Autor(a)** | **Editora** | **Ano** | **Idioma** | **Link** | 
 | - | - | - | - | - | - | 
-| Dominando o Android com Kotlin (2ª Edição) | _Nelson Glauber_ | Novatec | 2019 | 🇵🇹 | [Link](http://bit.do/eSTHU) | 
-| Android essencial com Kotlin (2ª Edição) | _Ricardo Lecheta_ | Novatec | 2018 | 🇵🇹 | [Link](http://bit.do/eSTJq) | 
-| Kotlin com Android | _Kassiano Resende_ | Casa do Código | 2018 | 🇵🇹 | [Link](http://bit.do/eSTH8) |
-| Kotlin em Ação (Tradução) | _Dmitry Jemerov, Svetlana Isakova_ | Novatec | 2017 | 🇵🇹 | [Link](http://bit.do/eSTJx) |
+| Dominando o Android com Kotlin (2ª Edição) | _Nelson Glauber_ | Novatec | 2019 | 🇧🇷 | [Link](http://bit.do/eSTHU) | 
+| Android essencial com Kotlin (2ª Edição) | _Ricardo Lecheta_ | Novatec | 2018 | 🇧🇷 | [Link](http://bit.do/eSTJq) | 
+| Kotlin com Android | _Kassiano Resende_ | Casa do Código | 2018 | 🇧🇷 | [Link](http://bit.do/eSTH8) |
+| Kotlin em Ação (Tradução) | _Dmitry Jemerov, Svetlana Isakova_ | Novatec | 2017 | 🇧🇷 | [Link](http://bit.do/eSTJx) |
 
 ##### Livros internacionais 📖 🌏
 | **Nome** | **Autor(a)** | **Editora** | **Ano** | **Idioma** | **Link** | 
@@ -46,7 +46,7 @@ Lembrando: esse repositório é uma iniciativa do [Android Dev BR](https://githu
 
 | **Nome** | **Descrição** | **Idioma** | **Link** | 
 | - | - | - | - |
-| Android Dev BR (Medium) | Publicação oficial do Android Dev BR no Medium, com artigos de membros da comunidade | 🇵🇹 | [Link](http://bit.do/eST8r) |
+| Android Dev BR (Medium) | Publicação oficial do Android Dev BR no Medium, com artigos de membros da comunidade | 🇧🇷 | [Link](http://bit.do/eST8r) |
 | Google Developers (Medium) | Publicação oficial do Google Developers no Medium | 🇬🇧 | [Link](http://bit.do/eST9y) |
 | Styling Android | Blog oficial do Mark Allison, fundador do Styling Android e Google Developer Expert de Android | 🇬🇧 | [Link](http://bit.do/eST8m) |
 | Joe Birch | Blog oficial do Joe Birch, Android Lead @ Buffer e Google Developer Expert de Android | 🇬🇧 | [Link](http://bit.do/eST8N) |
@@ -56,7 +56,7 @@ Lembrando: esse repositório é uma iniciativa do [Android Dev BR](https://githu
 
 | **Nome** | **Descrição** | **Idioma** | **Link** | 
 | - | - | - | - |
-| Android Dev BR Cast | Podcast oficial sobre desenvolvimento Android produzido pelo Android Dev BR | 🇵🇹 | [Link](http://bit.do/eST98) |
+| Android Dev BR Cast | Podcast oficial sobre desenvolvimento Android produzido pelo Android Dev BR | 🇧🇷 | [Link](http://bit.do/eST98) |
 | Android Developers Backstage (Google) | Podcast oficial sobre desenvolvimento Android produzido por membros do time do Android no Google | 🇬🇧 | [Link](http://bit.do/eST9Z) |
 | Fragmented | Podcast sobre desenvolvimento Android produzido pelo Donn Felker e Kaushik Gopal, ambos GDEs e membros da comunidade Android internacional | 🇬🇧 | [Link](http://bit.do/eST9Q) |
 | The Context | Podcast sobre desenvolvimento Android produzido pelo Hannes Dorfmann, Artem Zinnatullin e Artur Dryomov,  membros da comunidade Android internacional | 🇬🇧 | [Link](http://bit.do/eST9H) |
@@ -73,7 +73,7 @@ Lembrando: esse repositório é uma iniciativa do [Android Dev BR](https://githu
 
 | **Nome**  | **Descrição** | **Idioma** | **Link** | 
 | - | - | - | - | 
-| Formação Android - Alura | Curso de formação de profissionais Android fornecido pela Alura, serviço de cursos online da Caelum | 🇵🇹 | [Link](http://bit.do/eSUaP) |
+| Formação Android - Alura | Curso de formação de profissionais Android fornecido pela Alura, serviço de cursos online da Caelum | 🇧🇷 | [Link](http://bit.do/eSUaP) |
 | Caster.io | Curso online avançado para profissionais Android, com professores membros da comunidade e do programa de Experts do Google (GDEs) | 🇬🇧 | [Link](http://bit.do/eSUaU) |
 | Codelabs Android - Google Developers | Codelabs oficiais de Android, mantidos pelo Google | 🇬🇧 | [Link](http://bit.do/eSUaZ) |
 | Developing Android Apps with Kotlin - Udacity| Curso oficial do Google, fornecido pela Udacity, ensinando a desenvolver em Kotlin e utilizando Android Architecture Components | 🇬🇧 | [Link](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012#) |
