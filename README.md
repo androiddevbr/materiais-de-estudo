@@ -52,6 +52,14 @@ Lembrando: esse repositório é uma iniciativa do [Android Dev BR](https://githu
 | Joe Birch | Blog oficial do Joe Birch, Android Lead @ Buffer e Google Developer Expert de Android | 🇬🇧 | [Link](http://bit.do/eST8N) |
 | Rebecca Franks | Blog oficial da Rebecca Franks, Android Engineer @ Over e Google Developer Expert de Android | 🇬🇧 | [Link](http://bit.do/eST8Z) |
 
+### Newsletter 📢
+
+| **Nome** | **Descrição** | **Idioma** | **Link** |
+| - | - | - | - |
+| Android Weekly | Lista com o melhor da semana em artigos, tutoriais e mais | 🇬🇧 | [Link](https://androidweekly.net)
+| #AndroidDev Digest | Lista semanal com artigos, videos e bibliotecas | 🇬🇧 | [Link](https://www.androiddevdigest.com)
+| Kotlin Weekly | Lista semanal sobre Kotlin | 🇬🇧 | [Link](http://www.kotlinweekly.net)
+
 ### Podcasts 🎙
 
 | **Nome** | **Descrição** | **Idioma** | **Link** | 
