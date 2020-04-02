@@ -29,7 +29,7 @@ Lembrando: esse repositório é uma iniciativa do [Android Dev BR](https://githu
 ##### Livros nacionais ou traduções oficiais 📖 🇧🇷
 | **Nome** | **Autor(a)** | **Editora** | **Ano** | **Idioma** | **Link** | 
 | - | - | - | - | - | - | 
-| Dominando o Android com Kotlin (2ª Edição) | _Nelson Glauber_ | Novatec | 2019 | 🇧🇷 | [Link](http://bit.do/eSTHU) | 
+| Dominando o Android com Kotlin (3ª Edição) | _Nelson Glauber_ | Novatec | 2019 | 🇧🇷 | [Link](http://bit.do/eSTHU) | 
 | Android essencial com Kotlin (2ª Edição) | _Ricardo Lecheta_ | Novatec | 2018 | 🇧🇷 | [Link](http://bit.do/eSTJq) | 
 | Kotlin com Android | _Kassiano Resende_ | Casa do Código | 2018 | 🇧🇷 | [Link](http://bit.do/eSTH8) |
 | Kotlin em Ação (Tradução) | _Dmitry Jemerov, Svetlana Isakova_ | Novatec | 2017 | 🇧🇷 | [Link](http://bit.do/eSTJx) |
