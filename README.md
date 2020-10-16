@@ -80,10 +80,11 @@ Lembrando: esse repositório é uma iniciativa do [Android Dev BR](https://githu
 ### Cursos e Codelabs Online 👨🏾‍💻 👩🏻‍💻
 
 | **Nome**  | **Descrição** | **Idioma** | **Link** | 
-| - | - | - | - | 
+| - | - | - | - |
 | Formação Android - Alura | Curso de formação de profissionais Android fornecido pela Alura, serviço de cursos online da Caelum | 🇧🇷 | [Link](http://bit.do/eSUaP) |
 | Caster.io | Curso online avançado para profissionais Android, com professores membros da comunidade e do programa de Experts do Google (GDEs) | 🇬🇧 | [Link](http://bit.do/eSUaU) |
-| Codelabs Android - Google Developers | Codelabs oficiais de Android, mantidos pelo Google | 🇬🇧 | [Link](http://bit.do/eSUaZ) |
+| Codelabs Android - Google Developers | Codelabs oficiais de Android, mantidos pelo Google | 🇬🇧 | [Link](https://developer.android.com/courses)|
+| Fundamentos de Android em Kotlin | Codelabs de Android, adaptados dos Codelabs oficiais | 🇧🇷 | [Link](https://pertence.net/android-kotlin-guide/kotlin-android-training-welcome.html)
 | Developing Android Apps with Kotlin - Udacity| Curso oficial do Google, fornecido pela Udacity, ensinando a desenvolver em Kotlin e utilizando Android Architecture Components | 🇬🇧 | [Link](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012#) |
 | Kotlin Hands-On | Codelabs diversos sobre recursos da linguagem, incluindo Coroutines, Kotlin Multiplatform e Kotlin Native | 🇬🇧 | [Link](https://play.kotlinlang.org/hands-on/overview) |
 
